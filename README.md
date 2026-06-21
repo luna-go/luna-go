@@ -1,3 +1,3 @@
 ## Hola 👋
 
-Esta es pañgina web de Luna Go
+Esta es página web de Luna Go
